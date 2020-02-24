@@ -1,2 +1,2 @@
 # qianzhi
-PHP
+A news recommand system .
